@@ -1,6 +1,7 @@
 ### Hi, I'm Thomas Hammoudi
 
-I'm a photographer and I make photography videos in French on YouTube ([thomashammoudi.com](https://www.thomashammoudi.com)).
+I'm a photographer and I make photography videos in French on YouTube. Every tool I build is documented on
+[dev.thomashammoudi.com](https://dev.thomashammoudi.com).
 Most of what I publish here started as a tool I needed for my own work, and I share it as it is. Apart from
 premiere-rough-cut, the docs are in French for now.
 
