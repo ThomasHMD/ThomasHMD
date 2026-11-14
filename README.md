@@ -18,7 +18,8 @@ premiere-rough-cut, the docs are in French for now.
 - [fuji-xrfc-preset-generator](https://github.com/ThomasHMD/fuji-xrfc-preset-generator): Fujifilm presets for X RAW
   Studio, measured recipes converted for 16 cameras.
 - [2FujiRaw](https://github.com/ThomasHMD/2FujiRaw): unlocks Fujifilm Film Simulations in Lightroom Classic for Hasselblad
-  X2D II 100C files.
+  X2D II and Leica files. New in v0.2.0: a Lightroom plug-in that converts your selection and stacks the result on the
+  original.
 
 **Old cameras**
 
